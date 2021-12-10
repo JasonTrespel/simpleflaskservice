@@ -10,7 +10,7 @@ Alternatively, this code can easily be transformed into a docker image following
 
 ### /env [0.1]
 
-        HTTP/1.1 200 OK
+        HTTP/1.1 200 OK 
         $HTTP_HEADERZ
          {
              "env": # dump of available environmental variables,
